@@ -4,6 +4,8 @@
     z-index: 999;
     background-color: #387a47;
     text-align: center;
+    justify-content: center;
+    
 }
 
 .footer-collapse {
@@ -16,4 +18,5 @@
 
 .text {
     color: #fcf9f9;
+    
 }

@@ -7,9 +7,11 @@ import "./Footer.css";
 const Footer = () => {
     return (
         <>
-            <div className="fixed-bottom text">
+            <div className="fixed-bottom">
                 <Navbar className="footer" variant="dark" expand="lg">
-                    <p>	&#169; 2021</p>
+                    <div className="text">
+                        <p>	&#169;2021 Jake Burzlaff</p>
+                    </div>
                 </Navbar>
             </div>
         </>
