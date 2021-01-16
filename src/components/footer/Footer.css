@@ -2,7 +2,8 @@
     position: relative;
     top: 0px;
     z-index: 999;
-    background-color: #387a47
+    background-color: #387a47;
+    text-align: center;
 }
 
 .footer-collapse {
@@ -13,6 +14,6 @@
     font-size: 1rem;
 }
 
-.footer-brand {
-    font-size: 1;
+.text {
+    color: #fcf9f9;
 }
