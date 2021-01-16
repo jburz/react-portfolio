@@ -7,7 +7,7 @@ import "./Navbar.css";
 const MyNavbar = () => {
     return (
         <>
-            <Navbar bg="dark" variant="dark" expand="lg">
+            <Navbar class="navbar" variant="dark" expand="lg">
                 <Navbar.Brand className="nav-brand">Jake Burzlaff</Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">

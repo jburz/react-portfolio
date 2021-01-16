@@ -2,6 +2,7 @@
     position: relative;
     top: 0px;
     z-index: 999;
+    background-color: #387a47
 }
 
 .navbar-collapse {
@@ -9,9 +10,9 @@
 }
 
 .nav-link {
-    font-size: 1.5rem;
+    font-size: 1rem;
 }
 
 .navbar-brand {
-    font-size: 1.5rem;
+    font-size: 1;
 }
