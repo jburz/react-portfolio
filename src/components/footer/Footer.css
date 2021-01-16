@@ -1,18 +1,18 @@
-.navbar {
+.footer {
     position: relative;
     top: 0px;
     z-index: 999;
     background-color: #387a47
 }
 
-.navbar-collapse {
+.footer-collapse {
     text-align: center;
 }
 
-.nav-link {
+.footer-link {
     font-size: 1rem;
 }
 
-.navbar-brand {
-    font-size: 1rem;
+.footer-brand {
+    font-size: 1;
 }
