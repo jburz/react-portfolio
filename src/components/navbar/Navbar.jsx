@@ -1,5 +1,5 @@
 import React from "react";
-import { Navbar, Nav, Button } from "react-bootstrap";
+import { Navbar, Nav } from "react-bootstrap";
 import { LinkContainer } from "react-router-bootstrap";
 import "./Navbar.css";
 
@@ -7,10 +7,8 @@ import "./Navbar.css";
 const MyNavbar = () => {
     return (
         <>
-            <Navbar bg="dark" variant="dark" expand="lg">
-                <LinkContainer to="/profile">
-                    <Navbar.Brand className="sure-vote">SURE VOTE</Navbar.Brand>
-                </LinkContainer>
+            <Navbar class="navbar" variant="dark" expand="lg">
+                <Navbar.Brand className="nav-brand">Jake Burzlaff</Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="mr-auto">
