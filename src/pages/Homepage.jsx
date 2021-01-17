@@ -3,7 +3,7 @@ import { Container, Col, Row } from "react-bootstrap";
 import MyNavbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import Headshot from "../assets/images/headshot.jpg"
-import "../assets/css/Homepage.css";
+import "../assets/css/style.css";
 import Resume from "../assets/files/Resume.pdf";
 
 const Homepage = () => {
