@@ -7,6 +7,7 @@ const Portfolio = () => {
         <>
             <MyNavbar />
             <h1>Portfolio</h1>
+
             <Footer />
         </>
 
