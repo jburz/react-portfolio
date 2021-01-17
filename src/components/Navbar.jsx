@@ -8,7 +8,7 @@ const MyNavbar = () => {
     return (
         <>
             <Navbar className="navbar" variant="dark" expand="lg">
-                <Navbar.Brand className="nav-brand">Jake Burzlaff</Navbar.Brand>
+                <Navbar.Brand className="nav-brand name">Jake Burzlaff</Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="mr-auto">

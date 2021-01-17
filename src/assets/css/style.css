@@ -57,3 +57,12 @@
     border-color: #387a47;
     border-radius: 10px;
 }
+
+.icon{
+    font-size: 24px;
+    color: #387a47
+}
+
+.name{
+    font-size: 20px;
+}
