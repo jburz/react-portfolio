@@ -1,13 +1,13 @@
 import React from "react";
 import MyNavbar from "../components/Navbar";
 import Footer from "../components/Footer";
+import Project from "../components/Project"
 
 const Portfolio = () => {
     return (
         <>
             <MyNavbar />
-            <h1>Portfolio</h1>
-
+            <Project />
             <Footer />
         </>
 

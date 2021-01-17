@@ -1,0 +1,52 @@
+.footer {
+    position: relative;
+    top: 0px;
+    z-index: 999;
+    background-color: #387a47;
+    text-align: center;
+    justify-content: center;
+    
+}
+
+.footer-collapse {
+    text-align: center;
+}
+
+.footer-link {
+    font-size: 1rem;
+}
+
+.text {
+    color: #fcf9f9;
+    
+}
+
+.card-border{
+    border-width: medium;
+    border-color: #387a47;
+    border-radius: 10px;
+}
+
+.btn-style{
+    background-color: #387a47;
+    color: #fcf9f9
+}
+
+.navbar {
+    position: relative;
+    top: 0px;
+    z-index: 999;
+    background-color: #387a47
+}
+
+.navbar-collapse {
+    text-align: center;
+}
+
+.nav-link {
+    font-size: 1rem;
+}
+
+.navbar-brand {
+    font-size: 1rem;
+}
