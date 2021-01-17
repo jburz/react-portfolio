@@ -1,0 +1,10 @@
+.card-border{
+    border-width: medium;
+    border-color: #387a47;
+    border-radius: 10px;
+}
+
+.btn-style{
+    background-color: #387a47;
+    color: #fcf9f9
+}
