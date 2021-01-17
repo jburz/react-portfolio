@@ -1,7 +1,6 @@
 import React from "react";
 import { Navbar, Nav } from "react-bootstrap";
-import { LinkContainer } from "react-router-bootstrap";
-import "../../assets/css/Footer.css";
+import "../assets/css/Footer.css";
 
 
 const Footer = () => {
