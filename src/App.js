@@ -1,8 +1,8 @@
 import './App.css';
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import Homepage from "./pages/Homepage"
-import Portfolio from "./pages/Portfolio"
-import Contact from "./pages/Contact"
+import Homepage from "./components/pages/Homepage"
+import Portfolio from "./components/pages/Portfolio"
+import Contact from "./components/pages/Contact"
 
 
 function App() {
