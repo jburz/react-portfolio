@@ -2,7 +2,8 @@ import React from "react";
 import { Card } from "react-bootstrap";
 import "../assets/css/style.css";
 
-const Project = () => {
+const Project = (props) => {
+
     return (
 
         <Card className="card-border">
