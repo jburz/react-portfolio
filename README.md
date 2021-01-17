@@ -2,7 +2,7 @@
 
 This is a website dedicated to my work as a developer.  In it you will find information about myself and the some of the projects that I have been working on developing.
 
-Link to my [Portfolio](https://jburz.github.io)
+Link to my [Portfolio](https://hidden-eyrie-13756.herokuapp.com/)
 
 ![Portfolio homepage](./src/assets/images/homepage.png)
 ![Portfolio page](./src/assets/images/portfolio.png)
@@ -22,4 +22,4 @@ Link to my [Portfolio](https://jburz.github.io)
 
  ## Credits
 
- This website was created by [Jake Burzlaff](https://www.github.io/jburz).
+ This website was created by [Jake Burzlaff](https://github.com/jburz).
