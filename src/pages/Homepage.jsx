@@ -37,7 +37,7 @@ const Homepage = () => {
                         </p>
                         </Row>
                         <Row>
-                            <a href={Resume} target="_blank" className="btn btn-sm btn-style">View Resume</a>
+                            <a href={Resume} target="_blank" rel="noferrer" className="btn btn-sm btn-style">View Resume</a>
                         </Row>
                     </Col>
                 </Row>
