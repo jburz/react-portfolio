@@ -1,5 +1,5 @@
 import React from "react";
-import { Container, Row, Col, ListGroup, ListGroupItem } from "react-bootstrap";
+import { Container, Row, Col } from "react-bootstrap";
 import MyNavbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import Project from "../components/Project"

@@ -13,7 +13,7 @@ const Homepage = () => {
             <Container>
                 <Row className="mt-5">
                     <Col sm={4} className="d-sm-flex justify-content-center align-items-center">
-                        <img src={Headshot} alt="placeholder image" className="img-fluid img-thumbnail card-border"></img>
+                        <img src={Headshot} alt="placeholder" className="img-fluid img-thumbnail card-border"></img>
                     </Col>
                     <Col sm={8}>
                         <Row className="text-light">
@@ -37,7 +37,7 @@ const Homepage = () => {
                         </p>
                         </Row>
                         <Row>
-                            <a href={Resume} target="_blank" rel="noferrer" className="btn btn-sm btn-style">View Resume</a>
+                            <a href={Resume} target="_blank" rel="noreferrer" className="btn btn-sm btn-style">View Resume</a>
                         </Row>
                     </Col>
                 </Row>
